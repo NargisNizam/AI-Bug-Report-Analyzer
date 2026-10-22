@@ -1,0 +1,6 @@
+langgraph
+langchain-google-genai
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
